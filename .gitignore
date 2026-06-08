@@ -21,6 +21,7 @@ Thumbs.db
 # Build
 dist/
 build/
+.svelte-kit/
 *.log
 
 # Local tools
